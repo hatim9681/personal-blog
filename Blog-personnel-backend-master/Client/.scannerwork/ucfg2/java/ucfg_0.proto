@@ -1,0 +1,62 @@
+
+•com.blogpersonnel.Client.controller.clientController#register(Lcom/blogpersonnel/Client/dto/RegisterClient;)Lcom/blogpersonnel/Client/entites/Client;¤
+™/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/Client/src/main/java/com/blogpersonnel/Client/controller/clientController.java( (("startingBlock*ƒ
+startingBlock( ((>¡
+ž
+' '(
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*S
+
+__unknown_file (7
+5
+client+com.blogpersonnel.Client.dto.RegisterClient¡
+ž
+( (('
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*S
+
+__unknown_file (7
+5
+client+com.blogpersonnel.Client.dto.RegisterClientš
+—
+(7 ((=5
+client+com.blogpersonnel.Client.dto.RegisterClient"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ª
+1) )(²
+¯
+) )(4
+%0.com.blogpersonnel.Client.service.ClientService"__id*g
+
+__unknown_file (K*I6
+4com.blogpersonnel.Client.controller.clientController"
+clientService¨¥
+) )()-
+%1'com.blogpersonnel.Client.entites.Client"‹com.blogpersonnel.Client.service.ClientService#save(Lcom/blogpersonnel/Client/dto/RegisterClient;)Lcom/blogpersonnel/Client/entites/Client;*R
+
+__unknown_file (6
+4
+%0.com.blogpersonnel.Client.service.ClientService*S
+
+__unknown_file (7
+5
+client+com.blogpersonnel.Client.dto.RegisterClient23save(Lcom/blogpersonnel/Client/dto/RegisterClient;)";
+) )(*/
+-
+%1'com.blogpersonnel.Client.entites.Client:A
+( ((=5
+client+com.blogpersonnel.Client.dto.RegisterClientB86
+4com.blogpersonnel.Client.controller.clientControllerH

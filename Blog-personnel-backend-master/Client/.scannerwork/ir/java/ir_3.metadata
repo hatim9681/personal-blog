@@ -1,0 +1,3 @@
+com.blogpersonnel.Client.controller.clientController#getAllClient()Ljava/util/List;
+==
+findAllClient com.blogpersonnel.Client.service.ClientService#findAllClient()Ljava/util/List;

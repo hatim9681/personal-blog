@@ -1,0 +1,6 @@
+com.blogpersonnel.Commentaire.controller.CommentaireController#delete(I)LResponseEntity;
+null
+java.util.Optional#isEmpty()Z
+==
+getOne com.blogpersonnel.Commentaire.service.CommentaireService#getOne(I)Ljava/util/Optional;
+delete com.blogpersonnel.Commentaire.service.CommentaireService#delete(I)V

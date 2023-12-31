@@ -1,0 +1,7 @@
+organization=jaimee
+projectKey=jaimee_jaime
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=jaimee_jaime
+ceTaskId=AYzB5NLTQO5q2r2QWyFa
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzB5NLTQO5q2r2QWyFa

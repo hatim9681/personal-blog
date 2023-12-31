@@ -1,0 +1,122 @@
+
+Icom.blogpersonnel.jaime.service.LikeService#findAllComm()Ljava/util/List;š
+/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/jaime/src/main/java/com/blogpersonnel/jaime/service/LikeService.java   (("1*‡
+1! !()­
+ª
+! !()7
+%01com.blogpersonnel.jaime.repository.LikeRepository"__id*_
+
+__unknown_file (C*A-
++com.blogpersonnel.jaime.service.LikeService"
+likeRepositoryN
+L
+! !(4
+likejava.util.List"__id*"
+
+__unknown_file (
+""ˆ
+…
+"M "(\
+%1java.lang.String"__id*[
+
+__unknown_file (?*=-
++com.blogpersonnel.jaime.service.LikeService"
+
+URL_CLIENTq
+o
+"M "(j
+%2java.lang.String"__concat*$
+"M "(\
+
+%1java.lang.String*
+"] "(j
+/api/clientk
+i
+# #(53
+clients(com.blogpersonnel.jaime.entites.Client[]"__id*"
+
+__unknown_file (
+""†
+ƒ
+$I $(V
+%3java.lang.String"__id*Y
+
+__unknown_file (=*;-
++com.blogpersonnel.jaime.service.LikeService"
+
+URL_BLOGo
+m
+$I $(b
+%4java.lang.String"__concat*$
+$I $(V
+
+%3java.lang.String*
+$W $(b
+	/api/blogg
+e
+% %(0/
+blogs&com.blogpersonnel.jaime.entites.Blog[]"__id*"
+
+__unknown_file (
+""¤¡
+& &(
+%5java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*4
+
+__unknown_file (
+
+likejava.util.List2stream()¡
+ž
+&! &(Z!
+%6java.util.function.Function"__declareFunction*\
+
+__unknown_file (@>
+<__sonar_lambda_0$com.blogpersonnel.jaime.service.LikeService¦
+£
+
+__unknown_file (.
+!
+%6java.util.function.Function"	
+clients"__id*Q
+
+__unknown_file (5
+3
+clients(com.blogpersonnel.jaime.entites.Client[] 
+
+
+__unknown_file (,
+!
+%6java.util.function.Function"
+blogs"__id*M
+
+__unknown_file (1
+/
+blogs&com.blogpersonnel.jaime.entites.Blog[]©
+¦
+
+__unknown_file (7
+!
+%6java.util.function.Function"
+LikeService.this"__id*K
+
+__unknown_file (/-
++com.blogpersonnel.jaime.service.LikeService£ 
+& &([
+%8java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%5java.util.stream.Stream*?
+
+__unknown_file (#
+!
+%6java.util.function.Function2"map(Ljava/util/function/Function;)œ™
+& &(d
+%9java.util.List"0java.util.stream.Stream#toList()Ljava/util/List;*;
+
+__unknown_file (
+
+%8java.util.stream.Stream2toList()""
+& &(e
+
+%9java.util.ListB/-
++com.blogpersonnel.jaime.service.LikeServiceH

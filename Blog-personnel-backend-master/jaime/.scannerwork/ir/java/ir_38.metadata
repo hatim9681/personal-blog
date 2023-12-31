@@ -1,0 +1,6 @@
+com.blogpersonnel.jaime.exception.RestResponseEntityExceptionHandler#handleClientServiceException(Lcom/blogpersonnel/jaime/exception/LikeNotFoundForBlogIdException;)LResponseEntity;
+null
+com.blogpersonnel.jaime.dto.ErrorResponse#<init>()V
+com.blogpersonnel.jaime.dto.ErrorResponse#instance-init#
+==
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

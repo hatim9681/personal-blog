@@ -1,0 +1,3 @@
+com.blogpersonnel.Client.controller.clientController#register(Lcom/blogpersonnel/Client/dto/RegisterClient;)Lcom/blogpersonnel/Client/entites/Client;
+==
+save com.blogpersonnel.Client.service.ClientService#save(Lcom/blogpersonnel/Client/dto/RegisterClient;)Lcom/blogpersonnel/Client/entites/Client;

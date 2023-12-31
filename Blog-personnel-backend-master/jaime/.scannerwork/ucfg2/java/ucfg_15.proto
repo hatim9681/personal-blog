@@ -1,0 +1,55 @@
+
+<__sonar_lambda_4$com.blogpersonnel.jaime.service.LikeServiceš
+/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/jaime/src/main/java/com/blogpersonnel/jaime/service/LikeService.javaR# R(`"startingBlock*Ì
+startingBlockR# R(`²
+¯
+
+__unknown_file (3
+clients(com.blogpersonnel.jaime.entites.Client[]"__id*X
+
+__unknown_file (<*:-
++com.blogpersonnel.jaime.service.LikeService"	
+clients¬
+©
+
+__unknown_file (/
+blogs&com.blogpersonnel.jaime.entites.Blog[]"__id*V
+
+__unknown_file (:*8-
++com.blogpersonnel.jaime.service.LikeService"
+blogsÇ
+Ä
+
+__unknown_file (?
+LikeService.this+com.blogpersonnel.jaime.service.LikeService"__id*a
+
+__unknown_file (E*C-
++com.blogpersonnel.jaime.service.LikeService"
+LikeService.this*
+1*¿
+1R5 R(Gñ
+î
+R5 R(`.
+%11'com.blogpersonnel.jaime.dto.LikeDtoResp"àcom.blogpersonnel.jaime.service.LikeService#mapToCommentRepose(Lcom/blogpersonnel/jaime/entites/Jaime;[Lcom/blogpersonnel/jaime/entites/Client;[Lcom/blogpersonnel/jaime/entites/Blog;)Lcom/blogpersonnel/jaime/dto/LikeDtoResp;*]
+
+__unknown_file (A
+?
+LikeService.this+com.blogpersonnel.jaime.service.LikeService*N
+
+__unknown_file (2
+0
+comment%com.blogpersonnel.jaime.entites.Jaime*Q
+
+__unknown_file (5
+3
+clients(com.blogpersonnel.jaime.entites.Client[]*M
+
+__unknown_file (1
+/
+blogs&com.blogpersonnel.jaime.entites.Blog[]"<
+R5 R(`0
+.
+%11'com.blogpersonnel.jaime.dto.LikeDtoResp:<
+R$ R(10
+comment%com.blogpersonnel.jaime.entites.JaimeB
+java.util.function.Function

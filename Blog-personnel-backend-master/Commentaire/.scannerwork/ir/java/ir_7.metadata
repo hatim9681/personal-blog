@@ -1,0 +1,3 @@
+com.blogpersonnel.Commentaire.controller.CommentaireController#findByBlog(I)Ljava/util/List;
+==
+findByBlogId com.blogpersonnel.Commentaire.service.CommentaireService#findByBlogId(I)Ljava/util/List;

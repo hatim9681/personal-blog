@@ -1,0 +1,21 @@
+
+Ocom.blogpersonnel.jaime.controller.LikeController#findAllComm()Ljava/util/List; 
+•/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/jaime/src/main/java/com/blogpersonnel/jaime/controller/LikeController.java (("1*¯
+1 (ª
+§
+ (1
+%0+com.blogpersonnel.jaime.service.LikeService"__id*b
+
+__unknown_file (F*D3
+1com.blogpersonnel.jaime.controller.LikeController"
+likeServiceÎË
+ ((
+%1java.util.List"Icom.blogpersonnel.jaime.service.LikeService#findAllComm()Ljava/util/List;*O
+
+__unknown_file (3
+1
+%0+com.blogpersonnel.jaime.service.LikeService2findAllComm()""
+ ()
+
+%1java.util.ListB53
+1com.blogpersonnel.jaime.controller.LikeControllerH

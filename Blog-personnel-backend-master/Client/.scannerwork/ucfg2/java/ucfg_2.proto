@@ -1,0 +1,62 @@
+
+ùcom.blogpersonnel.Client.controller.clientController#authen(Lcom/blogpersonnel/Client/dto/AuthenticationClient;)Lcom/blogpersonnel/Client/dto/ClientResponse;§
+ô/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/Client/src/main/java/com/blogpersonnel/Client/controller/clientController.java3 3( "startingBlock*ø
+startingBlock3  3(Xµ
+≤
+2 2(
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*g
+
+__unknown_file (K
+I
+authenticationClient1com.blogpersonnel.Client.dto.AuthenticationClientµ
+≤
+3! 3(-
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*g
+
+__unknown_file (K
+I
+authenticationClient1com.blogpersonnel.Client.dto.AuthenticationClientÆ
+´
+3C 3(WI
+authenticationClient1com.blogpersonnel.Client.dto.AuthenticationClient"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*Í
+16 6(≤
+Ø
+6 6(4
+%0.com.blogpersonnel.Client.service.ClientService"__id*g
+
+__unknown_file (K*I6
+4com.blogpersonnel.Client.controller.clientController"
+clientService‰·
+6 6(A1
+%1+com.blogpersonnel.Client.dto.ClientResponse"ücom.blogpersonnel.Client.service.ClientService#authentication(Lcom/blogpersonnel/Client/dto/AuthenticationClient;)Lcom/blogpersonnel/Client/dto/ClientResponse;*R
+
+__unknown_file (6
+4
+%0.com.blogpersonnel.Client.service.ClientService*g
+
+__unknown_file (K
+I
+authenticationClient1com.blogpersonnel.Client.dto.AuthenticationClient2Cauthentication(Lcom/blogpersonnel/Client/dto/AuthenticationClient;)"?
+6 6(B3
+1
+%1+com.blogpersonnel.Client.dto.ClientResponse:U
+3! 3(WI
+authenticationClient1com.blogpersonnel.Client.dto.AuthenticationClientB86
+4com.blogpersonnel.Client.controller.clientControllerH

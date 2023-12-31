@@ -1,0 +1,3 @@
+com.blogpersonnel.Client.controller.clientController#findById(I)Ljava/util/Optional;
+==
+getOne com.blogpersonnel.Client.service.ClientService#getOne(I)Ljava/util/Optional;

@@ -1,0 +1,55 @@
+
+I__sonar_lambda_0$com.blogpersonnel.Commentaire.service.CommentaireService­
+¢/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/Commentaire/src/main/java/com/blogpersonnel/Commentaire/service/CommentaireService.java&( &(j"startingBlock*š
+startingBlock&( &(jÅ
+Â
+
+__unknown_file (9
+clients.com.blogpersonnel.Commentaire.entites.Client[]"__id*e
+
+__unknown_file (I*G:
+8com.blogpersonnel.Commentaire.service.CommentaireService"	
+clients¿
+¼
+
+__unknown_file (5
+blogs,com.blogpersonnel.Commentaire.entites.Blog[]"__id*c
+
+__unknown_file (G*E:
+8com.blogpersonnel.Commentaire.service.CommentaireService"
+blogsï
+ì
+
+__unknown_file (S
+CommentaireService.this8com.blogpersonnel.Commentaire.service.CommentaireService"__id*u
+
+__unknown_file (Y*W:
+8com.blogpersonnel.Commentaire.service.CommentaireService"
+CommentaireService.this*
+1*¤
+1&? &(QÏ
+Ì
+&? &(j5
+%7/com.blogpersonnel.Commentaire.dto.CommentDtoRes"Œcom.blogpersonnel.Commentaire.service.CommentaireService#mapToCommentRepose(Lcom/blogpersonnel/Commentaire/entites/Commntaire;[Lcom/blogpersonnel/Commentaire/entites/Client;[Lcom/blogpersonnel/Commentaire/entites/Blog;)Lcom/blogpersonnel/Commentaire/dto/CommentDtoRes;*q
+
+__unknown_file (U
+S
+CommentaireService.this8com.blogpersonnel.Commentaire.service.CommentaireService*Y
+
+__unknown_file (=
+;
+comment0com.blogpersonnel.Commentaire.entites.Commntaire*W
+
+__unknown_file (;
+9
+clients.com.blogpersonnel.Commentaire.entites.Client[]*S
+
+__unknown_file (7
+5
+blogs,com.blogpersonnel.Commentaire.entites.Blog[]"C
+&? &(j7
+5
+%7/com.blogpersonnel.Commentaire.dto.CommentDtoRes:G
+&) &(;;
+comment0com.blogpersonnel.Commentaire.entites.CommntaireB
+java.util.function.Function

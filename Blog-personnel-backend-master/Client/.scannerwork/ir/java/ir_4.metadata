@@ -1,0 +1,3 @@
+com.blogpersonnel.Client.controller.clientController#authen(Lcom/blogpersonnel/Client/dto/AuthenticationClient;)Lcom/blogpersonnel/Client/dto/ClientResponse;
+==
+authentication com.blogpersonnel.Client.service.ClientService#authentication(Lcom/blogpersonnel/Client/dto/AuthenticationClient;)Lcom/blogpersonnel/Client/dto/ClientResponse;

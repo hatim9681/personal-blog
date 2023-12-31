@@ -1,0 +1,90 @@
+
+Jcom.blogpersonnel.blogs.service.BlogService#findAllBlogs()Ljava/util/List;š
+/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/blogs/src/main/java/com/blogpersonnel/blogs/service/BlogService.java (&"1*ƒ
+1   ()­
+ª
+   ()7
+%01com.blogpersonnel.blogs.repository.BlogRepository"__id*_
+
+__unknown_file (C*A-
++com.blogpersonnel.blogs.service.BlogService"
+blogRepositoryO
+M
+   (4
+blogsjava.util.List"__id*"
+
+__unknown_file (
+""ˆ
+…
+!G !(V
+%1java.lang.String"__id*[
+
+__unknown_file (?*=-
++com.blogpersonnel.blogs.service.BlogService"
+
+URL_CLIENTq
+o
+!G !(d
+%2java.lang.String"__concat*$
+!G !(V
+
+%1java.lang.String*
+!W !(d
+/api/clientk
+i
+" "(/3
+clients(com.blogpersonnel.blogs.entites.Client[]"__id*"
+
+__unknown_file (
+""¥¢
+$ $(
+%3java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*5
+
+__unknown_file (
+
+blogsjava.util.List2stream()¡
+ž
+$" $(R!
+%4java.util.function.Function"__declareFunction*\
+
+__unknown_file (@>
+<__sonar_lambda_0$com.blogpersonnel.blogs.service.BlogService¦
+£
+
+__unknown_file (.
+!
+%4java.util.function.Function"	
+clients"__id*Q
+
+__unknown_file (5
+3
+clients(com.blogpersonnel.blogs.entites.Client[]©
+¦
+
+__unknown_file (7
+!
+%4java.util.function.Function"
+BlogService.this"__id*K
+
+__unknown_file (/-
++com.blogpersonnel.blogs.service.BlogService£ 
+$ $(S
+%6java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%3java.util.stream.Stream*?
+
+__unknown_file (#
+!
+%4java.util.function.Function2"map(Ljava/util/function/Function;)œ™
+$ $(\
+%7java.util.List"0java.util.stream.Stream#toList()Ljava/util/List;*;
+
+__unknown_file (
+
+%6java.util.stream.Stream2toList()""
+$ $(]
+
+%7java.util.ListB/-
++com.blogpersonnel.blogs.service.BlogServiceH

@@ -1,0 +1,8 @@
+com.blogpersonnel.Client.service.ClientService#save(Lcom/blogpersonnel/Client/dto/RegisterClient;)Lcom/blogpersonnel/Client/entites/Client;
+java.util.Optional#isPresent()Z
+com.blogpersonnel.Client.exception.DifferentPasswordException#<init>(Ljava/lang/String;Ljava/lang/String;)V
+com.blogpersonnel.Client.exception.ClientHandleException#instance-init#
+com.blogpersonnel.Client.exception.DifferentPasswordException#instance-init#
+com.blogpersonnel.Client.exception.ClientHandleException#<init>(Ljava/lang/String;Ljava/lang/String;)V
+==
+findByEmail com.blogpersonnel.Client.repository.ClientRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;

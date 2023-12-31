@@ -1,0 +1,3 @@
+com.blogpersonnel.jaime.controller.LikeController#findAllComm()Ljava/util/List;
+==
+findAllComm com.blogpersonnel.jaime.service.LikeService#findAllComm()Ljava/util/List;

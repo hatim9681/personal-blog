@@ -1,0 +1,6 @@
+com.blogpersonnel.Commentaire.service.CommentaireService#mapToCommentReposes(Lcom/blogpersonnel/Commentaire/entites/Commntaire;[Lcom/blogpersonnel/Commentaire/entites/Client;[Lcom/blogpersonnel/Commentaire/entites/Blog;)Lcom/blogpersonnel/Commentaire/dto/CommentDtoRes;
+java.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

@@ -1,0 +1,43 @@
+
+<__sonar_lambda_0$com.blogpersonnel.blogs.service.BlogServiceš
+/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/blogs/src/main/java/com/blogpersonnel/blogs/service/BlogService.java$" $(R"startingBlock*
+startingBlock$" $(R²
+¯
+
+__unknown_file (3
+clients(com.blogpersonnel.blogs.entites.Client[]"__id*X
+
+__unknown_file (<*:-
++com.blogpersonnel.blogs.service.BlogService"	
+clientsÇ
+Ä
+
+__unknown_file (?
+BlogService.this+com.blogpersonnel.blogs.service.BlogService"__id*a
+
+__unknown_file (E*C-
++com.blogpersonnel.blogs.service.BlogService"
+BlogService.this*
+1*µ
+1$0 $(@ì
+é
+$0 $(R)
+%5#com.blogpersonnel.blogs.dto.BlogDto"²com.blogpersonnel.blogs.service.BlogService#mapToBlogReponse(Lcom/blogpersonnel/blogs/entites/Blog;[Lcom/blogpersonnel/blogs/entites/Client;)Lcom/blogpersonnel/blogs/dto/BlogDto;*]
+
+__unknown_file (A
+?
+BlogService.this+com.blogpersonnel.blogs.service.BlogService*K
+
+__unknown_file (/
+-
+blogg$com.blogpersonnel.blogs.entites.Blog*Q
+
+__unknown_file (5
+3
+clients(com.blogpersonnel.blogs.entites.Client[]"7
+$0 $(R+
+)
+%5#com.blogpersonnel.blogs.dto.BlogDto:9
+$# $(--
+blogg$com.blogpersonnel.blogs.entites.BlogB
+java.util.function.Function

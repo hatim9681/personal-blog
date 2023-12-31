@@ -1,0 +1,5 @@
+com.blogpersonnel.jaime.controller.LikeController#save(Lcom/blogpersonnel/jaime/dto/LikeDtoCreate;)LResponseEntity;
+null
+java.time.Instant#now()Ljava/time/Instant;
+==
+save com.blogpersonnel.jaime.service.LikeService#save(Lcom/blogpersonnel/jaime/entites/Jaime;)Lcom/blogpersonnel/jaime/entites/Jaime;

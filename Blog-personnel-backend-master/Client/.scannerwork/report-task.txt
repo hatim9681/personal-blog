@@ -1,0 +1,7 @@
+organization=client
+projectKey=client_client
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=client_client
+ceTaskId=AYzB4ArVw9aIP1mwWbkH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzB4ArVw9aIP1mwWbkH

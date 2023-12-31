@@ -1,0 +1,7 @@
+organization=tesa
+projectKey=tesa_sonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=tesa_sonar
+ceTaskId=AYzBv71rw9aIP1mwWbgW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzBv71rw9aIP1mwWbgW

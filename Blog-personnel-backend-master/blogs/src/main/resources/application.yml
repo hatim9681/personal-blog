@@ -1,0 +1,14 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/blog?createDatabaseIfNotExist=true
+    username: "root"
+    password: ""
+  application:
+    name: SERVICE-BLOG
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+server:
+  port: 8081

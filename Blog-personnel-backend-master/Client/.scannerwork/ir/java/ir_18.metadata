@@ -1,0 +1,6 @@
+com.blogpersonnel.Client.exception.RestResponseEntityExceptionHandler#InvalidPass(Lcom/blogpersonnel/Client/exception/ImageNoFound;)LResponseEntity;
+null
+com.blogpersonnel.Client.dto.ErrorResponse#instance-init#
+com.blogpersonnel.Client.dto.ErrorResponse#<init>()V
+==
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;

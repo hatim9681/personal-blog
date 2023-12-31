@@ -1,0 +1,7 @@
+com.blogpersonnel.blogs.service.BlogService#mapToBlogResponse1(Lcom/blogpersonnel/blogs/entites/Blog;[Lcom/blogpersonnel/blogs/entites/Client;)Lcom/blogpersonnel/blogs/dto/BlogDto;
+java.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+java.time.Instant#now()Ljava/time/Instant;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

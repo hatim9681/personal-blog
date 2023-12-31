@@ -1,0 +1,6 @@
+com.blogpersonnel.Client.service.CloudinaryService#<init>()V
+null
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+==
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;

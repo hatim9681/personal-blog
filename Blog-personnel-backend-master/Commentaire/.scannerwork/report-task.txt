@@ -1,0 +1,7 @@
+organization=comment
+projectKey=comment_comment
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=comment_comment
+ceTaskId=AYzB59M8GNv59YaPxNTS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzB59M8GNv59YaPxNTS

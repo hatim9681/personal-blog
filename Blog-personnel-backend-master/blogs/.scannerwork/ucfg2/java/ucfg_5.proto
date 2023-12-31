@@ -1,0 +1,76 @@
+
+²com.blogpersonnel.blogs.service.BlogService#mapToBlogReponse(Lcom/blogpersonnel/blogs/entites/Blog;[Lcom/blogpersonnel/blogs/entites/Client;)Lcom/blogpersonnel/blogs/dto/BlogDto;š
+/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/blogs/src/main/java/com/blogpersonnel/blogs/service/BlogService.java( (($"1*Ö
+1) )("ø
+õ
+) )(2
+%0java.util.stream.Stream"Ejava.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;*0
+
+__unknown_file ("
+java.util.Arrays*Q
+
+__unknown_file (5
+3
+clients(com.blogpersonnel.blogs.entites.Client[]¢
+Ÿ
+): )(j"
+%1java.util.function.Predicate"__declareFunction*\
+
+__unknown_file (@>
+<__sonar_lambda_1$com.blogpersonnel.blogs.service.BlogService
+š
+
+__unknown_file (,
+"
+%1java.util.function.Predicate"
+blog"__id*J
+
+__unknown_file (.
+,
+blog$com.blogpersonnel.blogs.entites.Blog¬©
+) )(k
+%3java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%1java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)ª§
+) )(w
+%4java.util.Optional"7java.util.stream.Stream#findFirst()Ljava/util/Optional;*;
+
+__unknown_file (
+
+%3java.util.stream.Stream2findFirst()õò
+	) )(„,
+%5&com.blogpersonnel.blogs.entites.Client"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*6
+
+__unknown_file (
+
+%4java.util.Optional*"
+
+__unknown_file (
+""2orElse(Ljava/lang/Object;)–
+“
+	) )(…4
+
+foudClient&com.blogpersonnel.blogs.entites.Client"__id*J
+
+__unknown_file (.
+,
+%5&com.blogpersonnel.blogs.entites.Client…
+‚
+2 2()
+%6java.time.Instant"*java.time.Instant#now()Ljava/time/Instant;*1
+
+__unknown_file ("
+java.time.Instant"
+, 5(
+"":8
+(& ((1,
+blog$com.blogpersonnel.blogs.entites.Blog:?
+(2 ((B3
+clients(com.blogpersonnel.blogs.entites.Client[]B/-
++com.blogpersonnel.blogs.service.BlogService

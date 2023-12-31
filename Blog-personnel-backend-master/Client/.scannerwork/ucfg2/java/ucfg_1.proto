@@ -1,0 +1,21 @@
+
+Scom.blogpersonnel.Client.controller.clientController#getAllClient()Ljava/util/List;¤
+™/C:/Users/Dell/Desktop/5th Year/Blog Project/Blog-personnel-backend-master/Client/src/main/java/com/blogpersonnel/Client/controller/clientController.java. .($"1*Á
+1/ /(²
+¯
+/ /(4
+%0.com.blogpersonnel.Client.service.ClientService"__id*g
+
+__unknown_file (K*I6
+4com.blogpersonnel.Client.controller.clientController"
+clientServiceØÕ
+/ /(,
+%1java.util.List"Ncom.blogpersonnel.Client.service.ClientService#findAllClient()Ljava/util/List;*R
+
+__unknown_file (6
+4
+%0.com.blogpersonnel.Client.service.ClientService2findAllClient()""
+/ /(-
+
+%1java.util.ListB86
+4com.blogpersonnel.Client.controller.clientControllerH

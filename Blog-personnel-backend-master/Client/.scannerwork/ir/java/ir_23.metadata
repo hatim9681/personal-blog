@@ -1,0 +1,9 @@
+com.blogpersonnel.Client.service.CloudinaryService#convert(LMultipartFile;)Ljava/io/File;
+java.io.FileOutputStream#instance-init#
+java.io.File#<init>(Ljava/lang/String;)V
+java.io.FileOutputStream#<init>(Ljava/io/File;)V
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;
+java.io.File#instance-init#
+==
+write java.io.FileOutputStream#write([B)V
+close java.io.FileOutputStream#close()V

@@ -1,0 +1,3 @@
+com.blogpersonnel.blogs.controller.BlogController#getAllComm()Ljava/util/List;
+==
+findAllBlogs1 com.blogpersonnel.blogs.service.BlogService#findAllBlogs1()Ljava/util/List;

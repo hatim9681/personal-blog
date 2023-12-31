@@ -1,0 +1,3 @@
+com.blogpersonnel.Commentaire.controller.CommentaireController#findAllComm()Ljava/util/List;
+==
+findAllComm com.blogpersonnel.Commentaire.service.CommentaireService#findAllComm()Ljava/util/List;

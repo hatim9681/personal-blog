@@ -1,0 +1,6 @@
+com.blogpersonnel.jaime.service.LikeService#mapToCommentRepose(Lcom/blogpersonnel/jaime/entites/Jaime;[Lcom/blogpersonnel/jaime/entites/Client;[Lcom/blogpersonnel/jaime/entites/Blog;)Lcom/blogpersonnel/jaime/dto/LikeDtoResp;
+java.util.Arrays#stream([Ljava/lang/Object;)Ljava/util/stream/Stream;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+==
+filter java.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;
+findFirst java.util.stream.Stream#findFirst()Ljava/util/Optional;

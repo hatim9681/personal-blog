@@ -1,0 +1,6 @@
+com.blogpersonnel.jaime.controller.LikeController#delete(I)LResponseEntity;
+null
+java.util.Optional#isEmpty()Z
+==
+getOne com.blogpersonnel.jaime.service.LikeService#getOne(I)Ljava/util/Optional;
+delete com.blogpersonnel.jaime.service.LikeService#delete(I)V
